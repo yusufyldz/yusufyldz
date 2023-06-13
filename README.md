@@ -1,5 +1,5 @@
 ### Hi there 👋 
- My name is Yusuf. I'm a backend developer since 2021. I use the .Net technologies. 
+ My name is Yusuf. I'm a backend developer since 2021. I use the .Net technologies. I am studying management information systems at university.
 
  - 🔭 I’m currently working on .Net, SQL, NoSQL, MicroServices, MessageBroker.
  - 🌱 I’m currently learning CSS, Microservice tools.
